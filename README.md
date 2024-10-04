@@ -1,1 +1,1 @@
-![Asteroids Python](Asteroids/msrdc_06wXs2AHNj.gif)
+![Asteroids Python](msrdc_06wXs2AHNj.gif)
